@@ -5,4 +5,6 @@ This repository contains my solution to the Module - 2 Coding Assignments for th
 Assignment Links:
 
 Solution Links:
+<div>
 <a href="https://anndrezacamelo.github.io/Coursera-WebDev-Assignments/module2-solution/" target="_blank" title="Module 2"> Module 2 - Solution</a>
+</div>
